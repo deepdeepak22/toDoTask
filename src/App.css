@@ -1,0 +1,47 @@
+.heading-header{
+  text-align: center;
+  color: rgb(19, 161, 161);
+}
+.input{
+  margin: 50px;
+}
+.input-box{
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.box-1 {
+  margin: 30px;
+}
+.todo-button{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.middle-part{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.middle2{
+  margin-left: 1000px;
+}
+.task-map{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+.task-display{
+  margin-top: 50px;
+  background-color: rgb(114, 218, 183) ;
+  padding: 20px;
+}
+.button-class{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.edit-button{
+  margin-left: 150px;
+}
